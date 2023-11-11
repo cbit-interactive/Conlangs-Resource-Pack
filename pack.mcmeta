@@ -4,17 +4,17 @@
       "description": "My conlangs and stuff."
    },
    "language": {
-      "ni_fo": {
+      "nin_fo": {
          "name": "Ninjoani",
          "region": "Forestrilai",
          "bidirectional": false
       },
-      "ni_ru": {
+      "nin_ru": {
          "name": "Ninjoani Syrianico",
          "region": "Ruso",
          "bidirectional": false
       },
-      "ni_eg": {
+      "nin_eg": {
          "name": "Ninjoani Aegyptus",
          "region": "Aegyptus",
          "bidirectional": true
