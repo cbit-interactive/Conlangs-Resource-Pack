@@ -1,0 +1,23 @@
+{
+   "pack": {
+      "pack_format": 18,
+      "description": "My conlangs and stuff."
+   },
+   "ninjoan": {
+      "ni_fo": {
+         "name": "Ninjoani",
+         "region": "Forestrilai",
+         "bidirectional": false
+      },
+      "ni_ru": {
+         "name": "Ninjoani Syrianico",
+         "region": "Ruso",
+         "bidirectional": false
+      },
+      "ni_eg": {
+         "name": "Ninjoani Aegyptus",
+         "region": "Aegyptus",
+         "bidirectional": true
+      }
+   }
+}
